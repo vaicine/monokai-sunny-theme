@@ -14,3 +14,8 @@ Download `monokai-sunny-theme.el` to the directory `~/.emacs.d/themes/`. Add thi
 Now you can load the theme with the interactive function `load-theme` like this:
 
 `M-x load-theme RET monokai-sunny`
+
+# Looks like this
+
+![](https://user-images.githubusercontent.com/48125/28156104-31ea6570-67a9-11e7-966d-988a5249c923.png)
+
