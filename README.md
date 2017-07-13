@@ -17,5 +17,5 @@ Now you can load the theme with the interactive function `load-theme` like this:
 
 # Looks like this
 
-![](https://user-images.githubusercontent.com/48125/28156104-31ea6570-67a9-11e7-966d-988a5249c923.png)
+![](https://user-images.githubusercontent.com/48125/28159071-aa80466c-67b3-11e7-9f82-4dd80eb5360f.png)
 
